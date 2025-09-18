@@ -1,4 +1,4 @@
-# MLOps Assignment 1: Introduction, GitHub Basics, and MLflow Tracking
+# GitHub Basics and MLflow Tracking
 
 ## Project Description
 This project demonstrates the training, evaluation, and comparison of multiple machine learning models on the Iris dataset. It also includes experiment tracking, model logging, and model registration using **MLflow**.
