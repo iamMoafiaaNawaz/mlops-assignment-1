@@ -50,7 +50,7 @@ mlops-assignment-1/
 
 | Model                 | Accuracy | Precision | Recall | F1-Score |
 |-----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | 0.978    | 0.979     | 0.978  | 0.978    |
+| Logistic Regression   | 1.000    | 1.000    | 1.000  | 1.000    |
 | Random Forest         | 1.000    | 1.000     | 1.000  | 1.000    |
 | SVM                   | 1.000    | 1.000     | 1.000  | 1.000    |
 
