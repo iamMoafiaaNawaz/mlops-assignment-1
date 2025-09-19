@@ -1,0 +1,21 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+mlflow
+jupyter
+
+
+Explanation:
+
+numpy → numerical computations
+
+pandas → dataset handling
+
+matplotlib → graphs and plots
+
+scikit-learn → ML models (Logistic Regression, SVM, Random Forest, Decision Tree)
+
+mlflow → experiment tracking
+
+jupyter → notebook execution
