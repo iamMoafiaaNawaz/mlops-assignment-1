@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/0/models/m-7cbc38da5d96423ba14ceee77e0d065a/artifacts
+creation_timestamp: 1758168660036
+experiment_id: '0'
+last_updated_timestamp: 1758168698961
+model_id: m-7cbc38da5d96423ba14ceee77e0d065a
+model_type: null
+name: Logistic_Regression
+source_run_id: c05b017339784e3bb3f1ee0f0c61edb5
+status: 2
+status_message: null

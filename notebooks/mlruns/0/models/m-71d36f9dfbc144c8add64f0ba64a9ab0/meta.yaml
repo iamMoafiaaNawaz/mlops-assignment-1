@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/0/models/m-71d36f9dfbc144c8add64f0ba64a9ab0/artifacts
+creation_timestamp: 1758169282887
+experiment_id: '0'
+last_updated_timestamp: 1758169291450
+model_id: m-71d36f9dfbc144c8add64f0ba64a9ab0
+model_type: null
+name: Random_Forest
+source_run_id: ac2f80cd159244a5a40bf48c0a49eb7a
+status: 2
+status_message: null

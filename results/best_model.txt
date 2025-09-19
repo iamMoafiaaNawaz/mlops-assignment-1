@@ -1,0 +1,6 @@
+Best Model: Logistic_Regression
+Model        Logistic_Regression
+Accuracy                     1.0
+Precision                    1.0
+Recall                       1.0
+F1-Score                     1.0

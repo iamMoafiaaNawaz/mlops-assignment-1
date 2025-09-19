@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/698719592023777889/models/m-85dbd65f4418410c875729b5760c0efc/artifacts
+creation_timestamp: 1758169861509
+experiment_id: '698719592023777889'
+last_updated_timestamp: 1758169871204
+model_id: m-85dbd65f4418410c875729b5760c0efc
+model_type: null
+name: model
+source_run_id: 9eb55ee653744964901faaf7faf50b4c
+status: 2
+status_message: null

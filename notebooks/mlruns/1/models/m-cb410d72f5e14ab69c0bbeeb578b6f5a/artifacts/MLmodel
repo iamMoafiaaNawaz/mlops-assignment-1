@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/1/models/m-cb410d72f5e14ab69c0bbeeb578b6f5a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-cb410d72f5e14ab69c0bbeeb578b6f5a
+model_size_bytes: 2142
+model_uuid: m-cb410d72f5e14ab69c0bbeeb578b6f5a
+prompts: null
+run_id: ce9de2be280a48c7ac12c27a20c8d42b
+utc_time_created: '2025-09-18 05:23:12.263158'

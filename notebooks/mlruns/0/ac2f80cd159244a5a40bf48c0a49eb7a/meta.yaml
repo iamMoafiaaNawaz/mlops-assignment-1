@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/0/ac2f80cd159244a5a40bf48c0a49eb7a/artifacts
+end_time: 1758169291608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac2f80cd159244a5a40bf48c0a49eb7a
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758169282161
+status: 3
+tags: []
+user_id: Mafia

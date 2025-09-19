@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/0/2b5e50ecc54942a6990cfbd527462c6c/artifacts
+end_time: 1758169299594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b5e50ecc54942a6990cfbd527462c6c
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758169291632
+status: 3
+tags: []
+user_id: Mafia

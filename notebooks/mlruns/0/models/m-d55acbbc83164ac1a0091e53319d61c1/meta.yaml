@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/0/models/m-d55acbbc83164ac1a0091e53319d61c1/artifacts
+creation_timestamp: 1758168244784
+experiment_id: '0'
+last_updated_timestamp: 1758168252049
+model_id: m-d55acbbc83164ac1a0091e53319d61c1
+model_type: null
+name: SVM
+source_run_id: 211ccd8f74c14d9fab0fec1cf950fb99
+status: 2
+status_message: null

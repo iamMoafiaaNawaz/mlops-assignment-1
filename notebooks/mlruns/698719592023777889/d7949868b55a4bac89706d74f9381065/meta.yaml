@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Mafia/Downloads/mlops-assignment-1/notebooks/mlruns/698719592023777889/d7949868b55a4bac89706d74f9381065/artifacts
+end_time: 1758169860116
+entry_point_name: ''
+experiment_id: '698719592023777889'
+lifecycle_stage: active
+run_id: d7949868b55a4bac89706d74f9381065
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758169850469
+status: 3
+tags: []
+user_id: Mafia
